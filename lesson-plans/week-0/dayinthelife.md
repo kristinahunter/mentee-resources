@@ -12,11 +12,11 @@
 
 **When Handling Support Tickets:**
 1. **Understanding the Issue**
-   - Decode customer confusion (often related to documentation or errors they can't interpret)
+   - Decode confusion (often related to documentation or errors)
    - Investigate "nothing changed" scenarios (which usually did change)
    - Troubleshoot intermittent issues (frequently network-related)
    - Identify actual product bugs vs. user misunderstandings
-   - Guide customers through implementation questions
+   - Answer implementation questions
 
 2. **Resolution Process**
    - Review logs for error patterns
